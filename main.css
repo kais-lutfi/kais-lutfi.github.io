@@ -59,7 +59,8 @@ footer {
   }
 
 
-.blogtitle{text-align: justify;
+.blogtitle{
+  text-align: justify;
   width: 800px;
 
 }
